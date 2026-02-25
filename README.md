@@ -29,17 +29,12 @@ Built using **HTML, CSS, and JavaScript**, with smooth animations, and mobile re
 
 ## 📬 Contact
 
-- Email: **pallainibhargavi@gmail.com**  
+- Email: **laharigadamsetty@gmail.com**  
 - LinkedIn: [linkedin.com/in/laharigadamsetty](https://www.linkedin.com/in/laharigadamsetty//)  
 
 ---
 
 ## ⭐ Live Demo 
-
-GitHub Pages URL: 
-```
-https://pallaini-bhargavi.github.io/Portfolio/
-```
 
 Netlify URL: 
 ```
